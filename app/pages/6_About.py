@@ -63,7 +63,7 @@ def app():
 
     For support or feature requests, please contact:
     - Email: mlawali@qidaya.com
-    - GitHub: [Project Repository](https://github.com/bomino/poultry)
+    - GitHub: [Project Repository](https://github.com/bomino/PoultryPredict)
     """)
     
     # Footer
